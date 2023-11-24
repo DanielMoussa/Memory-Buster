@@ -12,7 +12,7 @@ This Flutter app is a card memorization game where users can test and improve th
 
 - **Card Matching:** Users can flip and match pairs of cards.
 - **Game Logic:** Implement a scoring system and game completion feedback.
-- **UI Design:** Create an simplen minimal and user-friendly interface.
+- **UI Design:** Create a simple, minimal, and user-friendly interface.
 
 ## Technologies Used
 
